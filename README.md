@@ -17,8 +17,10 @@
 - в качестве парсера используется `lxml`.
 
 ## Установка и использование:
-```git clone https://github.com/RomanVysotskii/RIANewsBot.git
+```
+git clone https://github.com/RomanVysotskii/RIANewsBot.git
 cd project
 pip install -r requirements.txt
 Создайте бота в BotFather
 Вставье полученный API-ключ в код
+```
